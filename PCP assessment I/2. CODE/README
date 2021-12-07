@@ -1,0 +1,6 @@
+To run the code, First you must have jupeternotebook.
+If not, then python in your system.
+Now, Important thing is you must have both the data files in same folder as code files or you can change the path name in dictload.py file.
+Secondly, now open the main_function.ipynb file via JuperterNotebook and simply run.
+If you don't have JupeterNotebook, copy the text from main_function.ipynb and paste in newe python file and saved it in same folder as other python files. Then run.
+FINISHED. 
